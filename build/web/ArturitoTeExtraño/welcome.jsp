@@ -15,6 +15,11 @@
     <body>
         <h1>Bienvenido Solicitante!</h1>
     <center>
+        
+        nombre: (variable_nombre)<br>
+        nesesitas: (variable_dinero)<br>
+        prestamos: (variable_dinero+)<br>
+        
         <table width="628" border="1"><tr>
   <td width="227">Nombre</td>
   <td width="250">Email</td>
@@ -22,3 +27,4 @@
     </center>
     </body>
 </html>
+
